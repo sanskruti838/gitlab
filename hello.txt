@@ -1,4 +1,1 @@
-welcome to Git for 3rd time
-welcome to Git for 4th time
-welcome
-hello github
+welcome to git bash
