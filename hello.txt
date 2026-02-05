@@ -1,2 +1,2 @@
 welcome to git bash
-welcome to github
+welcome to githubwelcome
