@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 welcome to master
-=======
+
 welcome to feature1
->>>>>>> feature1
+
